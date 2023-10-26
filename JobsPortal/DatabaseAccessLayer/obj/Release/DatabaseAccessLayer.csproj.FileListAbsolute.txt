@@ -1,0 +1,12 @@
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\bin\Release\DatabaseAccessLayer.dll.config
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\bin\Release\DatabaseAccessLayer.dll
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\bin\Release\DatabaseAccessLayer.pdb
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\bin\Release\EntityFramework.dll
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\bin\Release\EntityFramework.xml
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\obj\Release\DatabaseAccessLayer.csproj.AssemblyReference.cache
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\obj\Release\DatabaseAccessLayer.csproj.CoreCompileInputs.cache
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\obj\Release\DatabaseAccessLayer.csproj.CopyComplete
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\obj\Release\DatabaseAccessLayer.dll
+D:\Mphasis\ReRLLProject\ApplicationUI\JobsPortal\DatabaseAccessLayer\obj\Release\DatabaseAccessLayer.pdb

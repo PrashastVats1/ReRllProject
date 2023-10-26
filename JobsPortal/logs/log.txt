@@ -1,0 +1,4 @@
+2023-10-25 11:38:07,284 INFO JobsPortal.Controllers.HomeController - Accessed HomeController's Index action.
+2023-10-25 23:57:25,726 INFO JobsPortal.Controllers.HomeController - Accessed HomeController's Index action.
+2023-10-25 23:57:38,494 INFO JobsPortal.Controllers.HomeController - Accessed HomeController's Index action.
+2023-10-26 09:12:39,407 INFO JobsPortal.Controllers.HomeController - Accessed HomeController's Index action.
